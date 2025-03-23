@@ -90,5 +90,5 @@ The repository includes a detailed report showcasing the differences between seg
 - Script structures and their differences
 - Benefits of **SegWit transactions**
 
-For detailed analysis and screenshots of the decoded scripts, please refer to the **report.pdf** file.
+For detailed analysis and screenshots of the scripts, please refer to the **report.pdf** file.
 
