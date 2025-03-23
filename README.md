@@ -3,7 +3,8 @@
 
 This repository contains the implementation for **Assignment 3** on Bitcoin Scripting.
 
-## Team Name: WASD
+## Team Name: 
+WASD
 
 ## Team Members
 - **Rohan Dhiman**  
