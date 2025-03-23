@@ -1,7 +1,6 @@
-## CS 216: Introduction to Blockchain
 # Bitcoin Scripting Assignment
 
-This repository contains the implementation for **Assignment 3** on Bitcoin Scripting.
+This repository contains the implementation for **Assignment 3** of the course **CS - 216 : Introduciton to Blockchain**.
 
 ## Team Name: 
 WASD
