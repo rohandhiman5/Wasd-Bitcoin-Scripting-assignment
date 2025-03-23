@@ -51,6 +51,7 @@ pip install python-bitcoinrpc simplejson
 - `legacy_b_to_c.py` - Script to create and broadcast a transaction from **Legacy address B to C**
 - `segwit_a_to_b.py` - Script to create and broadcast a transaction from **SegWit address A' to B'**
 - `segwit_b_to_c.py` - Script to create and broadcast a transaction from **SegWit address B' to C'**
+- `comparison.py` - Script to compare the transactions on the basis of size.
 - `report.pdf` - Detailed analysis of the transactions and scripts
 
 ## Running the Code
@@ -77,11 +78,17 @@ To create a transaction from address B' to C':
 python segwit_b_to_c.py
 ```
 
-## Analysis
-The repository includes a detailed analysis comparing:
+### Part 3: Comparison and Analysis
+To compare the sizes of the two types of transactions (legacy and segwit):
+```bash
+python segwit_a_to_b.py
+```
+
+## Report
+The repository includes a detailed report showcasing the differences between segwit and legacy transactions such as:
 - Transaction sizes between **P2PKH** and **P2SH-P2WPKH**
 - Script structures and their differences
 - Benefits of **SegWit transactions**
 
-For detailed analysis and screenshots of the decoded scripts, please refer to the **report.pdf** file.
+For detailed analysis and screenshots of the scripts, please refer to the **report.pdf** file.
 
