@@ -1,8 +1,9 @@
-# WASD Bitcoin Scripting Assignment
-
 ## CS 216: Introduction to Blockchain
+# Bitcoin Scripting Assignment
 
 This repository contains the implementation for **Assignment 3** on Bitcoin Scripting.
+
+## Team Name: WASD
 
 ## Team Members
 - **Rohan Dhiman**  
