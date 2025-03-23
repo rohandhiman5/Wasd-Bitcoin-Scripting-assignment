@@ -1,0 +1,34 @@
+{
+    "legacy": {
+        "tx_a_to_b": {
+            "size": 191,
+            "vsize": 191,
+            "weight": 764,
+            "scriptPubKey": "OP_DUP OP_HASH160 00dd19fff02ba87f0568da1b282a93b1c2d598dc OP_EQUALVERIFY OP_CHECKSIG"
+        },
+        "tx_b_to_c": {
+            "size": 191,
+            "vsize": 191,
+            "weight": 764,
+            "scriptSig": "3044022016fd32832079dc113843014b53f3439300eabff1836346e11d30b911da90ec1d02203851e58d65bff9c29860f051bacb17eff6cf73a22b406566d5e2e8f096a32a7f[ALL] 02cae87b2b5a19279fee686c92490e919662dfc152faabf3049403b18a1ab35133"
+        }
+    },
+    "segwit": {
+        "tx_a_to_b": {
+            "size": 215,
+            "vsize": 134,
+            "weight": 533,
+            "scriptPubKey": "OP_HASH160 4f7e3fbf192f9e4838ceb2232f46d13df9694023 OP_EQUAL"
+        },
+        "tx_b_to_c": {
+            "size": 215,
+            "vsize": 134,
+            "weight": 533,
+            "scriptSig": "0014f004744611840f3536b244c8b29d5e3b0b5852f4"
+        }
+    },
+    "comparison": {
+        "size_reduction": "-12.57%",
+        "vsize_reduction": "29.84%"
+    }
+}
